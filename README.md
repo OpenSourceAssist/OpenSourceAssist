@@ -2,7 +2,11 @@
 
 <p>
 ☁️ Passionate about statistical computing, biostatistics, single-cell genomics, and biomarker discovery.<br>
+  </p>
+  </p>
 ☁️ Rooting for CACNA1A S1798L rare disease research and personalized antisense oligonucleotide (ASO) therapies, inspired by <a href="https://www.stjude.org/research/centers-initiatives/pediatric-translational-neuroscience-initiative/gemini.html">St. Jude GEMINI</a>.
+
+</p>
 </p>
 
 <img
