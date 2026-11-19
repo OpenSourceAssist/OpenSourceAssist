@@ -4,6 +4,9 @@ Passionate about statistical computing, biostatistics, single-cell genomics, and
 </p>
 
 Rooting for CACNA1A S1798L rare disease research and RNA-based antisense oligonucleotide (ASO) therapies, inspired by St. Jude GEMINI precision medicine research.
+</p>
+</p>
+</p>
 <img
   src="https://raw.githubusercontent.com/yumiaura/myCat/main/docs/cat.gif"
   width="220"
