@@ -1,5 +1,8 @@
-<h1> Leave my mark for the Greater Good</h1>
+<h2 align="center">
 
+  Leave My Mark for the Greater Good.
+
+</h2>
 ☁️Passionate about statistical computing, biostatistics, single-cell genomics, and biomarker discovery.
 </p>
 ☁️Rooting for CACNA1A S1798L rare disease research and RNA-based antisense oligonucleotide (ASO) therapies, inspired by St. Jude GEMINI precision medicine research.
