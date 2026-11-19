@@ -2,7 +2,8 @@
 
 <p>
 ☁️ Passionate about <b>statistical computing, biostatistics, single-cell genomics, and biomarker discovery.</b><br>
-☁️ Rooting for <b>CACNA1A S1798L rare disease research and RNA-based antisense oligonucleotide (ASO) therapies</b>, inspired by St. Jude GEMINI precision medicine research.
+☁️ ☁️ Rooting for <b>CACNA1A S1798L rare disease research and RNA-based antisense oligonucleotide (ASO) therapies</b>, inspired by 
+<a href="https://www.stjude.org/research/clinical-trials/gemini.html">St. Jude GEMINI precision medicine research</a>.
 </p>
 
 <img
