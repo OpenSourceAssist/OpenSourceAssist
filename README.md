@@ -1,4 +1,4 @@
-<h3> Leave our mark for the Greater Good.</h3>
+<h3> Leave our mark for the Greater Good</h1>
 
 ☁️Passionate about statistical computing, biostatistics, single-cell genomics, and biomarker discovery.
 </p>
