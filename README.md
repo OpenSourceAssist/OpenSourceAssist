@@ -17,8 +17,7 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuxint&theme=rose_pine" />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuxint&theme=default"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuxint&theme=vue"
   alt="GitHub Contribution Statistics"
 />
